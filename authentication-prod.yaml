@@ -1,0 +1,19 @@
+server:
+  port: 9000
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+management:
+  tracing:
+    sampling:
+      probability: 1.0
+
+authentication:
+  message: "authentication PROD profile"
+  contactDetails:
+    name: "Kevin Van - product owner"
+    email: "kevinvan7@hotmail.com"
+  onCallSupport:
+    - (832) 806 - 1256
