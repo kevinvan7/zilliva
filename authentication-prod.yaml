@@ -14,6 +14,8 @@ authentication:
   message: "authentication PROD profile"
   contactDetails:
     name: "Kevin Van - product owner"
-    email: "kevinvan7@hotmail.com"
+    email: "{cipher}27661974ff085c54a93ed1a48d3d117d24134818ef0b5cdfb3a5c111e437801ea7e777cd7d2814555f0de6a99d6a6afd"
+    
+
   onCallSupport:
     - (832) 806 - 1256
